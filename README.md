@@ -1,14 +1,14 @@
 # Telegram Radio Player V3 [![Mentioned in Awesome Telegram Calls](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/tgcalls/awesome-tgcalls)
-![GitHub Repo stars](https://img.shields.io/github/stars/AsmSafone/RadioPlayerV3?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/AsmSafone/RadioPlayerV3?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/AsmSafone/RadioPlayerV3)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/AsmSafone/RadioPlayerV3)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/AsmSafone/RadioPlayerV3)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AsmSafone/RadioPlayerV3)
-![GitHub contributors](https://img.shields.io/github/contributors/AsmSafone/RadioPlayerV3?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/AsmSafone/RadioPlayerV3?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AsmSafone/RadioPlayerV3)
-![GitHub](https://img.shields.io/github/license/AsmSafone/RadioPlayerV3)
+![GitHub Repo stars](https://img.shields.io/github/stars/xaloneking/RadioPlayerV3?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/xaloneking/RadioPlayerV3?color=green&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/xaloneking/RadioPlayerV3)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/xaloneking/RadioPlayerV3)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/xaloneking/RadioPlayerV3)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/xaloneking/RadioPlayerV3)
+![GitHub contributors](https://img.shields.io/github/contributors/xaloneking/RadioPlayerV3?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/xaloneking/RadioPlayerV3?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/xaloneking/RadioPlayerV3)
+![GitHub](https://img.shields.io/github/license/xaloneking/RadioPlayerV3)
 [![Bot Updates](https://img.shields.io/badge/RadioPlayerV3-Updates%20Channel-green)](https://t.me/AsmSafone)
 [![Bot Support](https://img.shields.io/badge/RadioPlayerV3-Support%20Group-blue)](https://t.me/AsmSupport)
 
@@ -16,7 +16,7 @@
 An Advanced Telegram Bot to Play Nonstop Radio/Music/YouTube Live in Channel or Group Voice Chats.
 
 This is also the source code of the bot which is being used for playing
-Radio in [AsmSafone](https://t.me/AsmSafone) Channel & Music in [AsmSupport](https://t.me/AsmSupport) Group.
+Radio in [xaloneking](https://t.) Channel & Music in [AsmSupport](https://t.me/AsmSupport) Group.
 
 ## Special Features
 
@@ -76,7 +76,7 @@ NOTE: Make Sure You Have Started A Voice Chat In Your Channel/Group Before Deplo
 ## Run On VPS
 
 ```sh
-$ git clone https://github.com/AsmSafone/RadioPlayerV3
+$ git clone https://github.com/xaloneking/RadioPlayerV3
 $ cd RadioPlayerV3
 $ sudo apt install git curl python3-pip ffmpeg -y
 $ pip3 install -U pip
@@ -89,7 +89,7 @@ $ python3 main.py
 ## License
 ```sh
 RadioPlayerV3, Telegram Voice Chat Bot
-Copyright (c) 2021  Asm Safone <https://github.com/AsmSafone>
+Copyright (c) 2021  Asm Safone <https://github.com/xaloneking>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
@@ -107,8 +107,8 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>
 
 ## Credits
 
-- [Me](https://github.com/AsmSafone) for [Noting](https://github.com/AsmSafone/RadioPlayerV3) 😬
+- [Me](https://github.com/xaloneking) for [Noting](https://github.com/xaloneking/RadioPlayerV3) 😬
 - [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram) ❤️
 - [MarshalX](https://github.com/MarshalX) for [pytgcalls](https://github.com/MarshalX/tgcalls) ❤️
-- And Thanks To All [Contributors](https://github.com/AsmSafone/RadioPlayerV3/graphs/contributors)! ❤️
+- And Thanks To All [Contributors](https://github.com/xaloneking/RadioPlayerV3/graphs/contributors)! ❤️
 
